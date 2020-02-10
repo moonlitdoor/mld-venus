@@ -1,0 +1,2 @@
+include ':venus', ':venus-android', ':venus-gson', ':example'
+rootProject.name='mld-venus'
